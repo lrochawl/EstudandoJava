@@ -1,6 +1,7 @@
-//Criar um Hello World em Java
-public class HelloWorld{
-	public static void main (String args[]){
-		System.out.println("Hello World!!");
+//Criar uma classe main e um helloWorld
+
+public class Main{
+	public static void main(String[] augs){
+		System.out.println("Hello World");
 	}
 }
