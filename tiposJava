@@ -1,0 +1,13 @@
+public class Principal{
+
+  public static void main(String[] args){
+    int idade = 16;
+    float peso = 65.6;
+    boolean estuda = true;
+    String nome = "Rodrock";
+  
+    System.out.println("Os tipos primitivos são:", idade, peso, estuda, nome);
+    
+  }
+  
+ }
